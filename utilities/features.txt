@@ -1,0 +1,2 @@
+add variable for max amount of items per row inside of the flex grid eg. 5 widgets
+make flexgrid compatible with scroll/frames
