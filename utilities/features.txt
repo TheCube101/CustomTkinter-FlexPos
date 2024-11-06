@@ -1,20 +1,20 @@
-flex-wrap = wrap/nowrap
-"wrap = enters down to next line"
-"nowrap = does not enter down to next line, keeps on the same line"
+flex-wrap = wrap/nowrap✅
+"wrap = enters down to next line"✅
+"nowrap = does not enter down to next line, keeps on the same line" ✅
 
-add variable for flex-direction "flex-dir" "east/west - right/left" 
+add variable for flex-direction "flex-dir" "east/west - right/left" ✅
 
-add variable for max amount of items per row inside of the flex grid eg. 5 widgets
+add variable for max amount of items per row inside of the flex grid eg. 5 widgets ✅
 
 make flexgrid compatible with scroll/frames
 
-add flex-growY/flex-growX "a multiplyer for width and height" 
+add flex-growY/flex-growX "a multiplyer for width and height"  ✅
 
-flex "normal" ✅
-flex-wrap
+flex "normal"✅
+flex-wrap✅
 flex-max ✅
-flex-growX
-flex-growY
+flex-growX✅
+flex-growY✅
 
 
 

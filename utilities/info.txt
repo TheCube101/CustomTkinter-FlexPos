@@ -1,0 +1,35 @@
+Discription:
+- minimum_width sets the minimum width of each widget
+- minimum_height sets the minimum height of each widget
+- flex_max sets the max amount of widgets per row
+- flex_wrap either makes the widgets wrap "enters the widgets to the next row" or nowrap where the widgets all fit together in a single row
+- flex_growX is a multiplyer for the widgets width
+- flex_growY is a multiplyer for the widgets height
+
+
+Needed Parameters:
+- minimum_width
+- minimum_height
+- Everything else can be deleated if wanted
+
+Argument Values:
+minimum_width:
+- int/float     "requied"
+
+minimum_height:
+- int/float     "requied"
+
+flex_max:
+- int
+- None
+
+flex_wrap:
+- wrap
+- nowrap
+- None
+
+flex_growX:
+- int/float
+
+flex_growY:
+- int/float
